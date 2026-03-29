@@ -1,0 +1,8 @@
+[2026-03-30 03:35:20] ERROR in fetch_products: ConnectionError — <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
+[2026-03-30 03:35:20] ERROR in fetch_laptops: ConnectionError — <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
+[2026-03-30 03:35:20] ERROR in add_product: ConnectionError — <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
+[2026-03-30 03:35:50] ERROR in lookup_product: ConnectionError — <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
+[2026-03-30 03:35:54] ERROR in lookup_product: ConnectionError — <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
+[2026-03-30 03:35:58] ERROR in lookup_product: ConnectionError — <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
+[2026-03-30 03:36:17] ERROR in test_connection: ConnectionError — <urlopen error [Errno 8] nodename nor servname provided, or not known>
+[2026-03-30 03:36:17] ERROR in lookup_product: Exception — <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
